@@ -1,16 +1,60 @@
-# React + Vite
+# 🚀 Hackseries 2.0: Full-Stack Mastery & Deployment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the official repository for the **Hackseries 2.0** sessions! This repository contains the code and resources developed during the training program conducted by **ACES**.
 
-Currently, two official plugins are available:
+## 💫 About Hackseries 2.0
+ACES brings you an intensive hands-on series focused on mastering the modern web development stack and professional deployment workflows.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### 🗓️ Session Schedule
+| Date | Topic | Status |
+| :--- | :--- | :--- |
+| **13th April** | React.js & PostgreSQL Architecture | ✅ Completed (Day 1) |
+| **15th April** | FastAPI/Flask & AI/ML Integration | 🕒 Upcoming (Day 2) |
+| **16th April** | Cloud Infrastructure & Deployment | ⏳ Scheduled (Day 3) |
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🎯 Learning Objectives
+Through this series, students gain real-world experience in:
+*   🏗️ **Building** robust full-stack applications.
+*   🎨 **Designing** modern, responsive UIs with React.
+*   ⚙️ **Developing** backend logic and managing databases (PostgreSQL, FastAPI/Flask).
+*   ☁️ **Deploying** projects to cloud infrastructure for production.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 💻 Tech Stack
+- **Frontend:** [React.js](https://reactjs.org/) + [Vite](https://vitejs.dev/)
+- **Backend:** FastAPI / Flask (Upcoming)
+- **Database:** PostgreSQL (Architecture)
+- **Styling:** CSS3 / Modern UI Design
+- **Integration:** AI/ML Models (Upcoming)
+
+---
+
+## 🚀 Today's Progress (Day 2)
+This repository currently reflects the progress made up to **Day 2 (15th April)**, focusing on FastAPI/Flask integration and laying the groundwork for AI/ML features.
+
+### How to use this repository:
+1.  **Clone the Repo:**
+    ```bash
+    git clone https://github.com/Lokesh19-PP/Hack-Series---Session.git
+    ```
+2.  **Install Dependencies:**
+    ```bash
+    npm install
+    ```
+3.  **Run Development Server:**
+    ```bash
+    npm run dev
+    ```
+
+---
+
+## 📢 Important Note for Students
+- **Laptop:** Please ensure you bring your own laptop to every session.
+- **Participation:** Seats are limited and allotted on a first-come, first-served basis.
+
+**Enhance your skills, build cool stuff, and get ready for the cloud!** 🚀
+
+Created with ❤️ by [Lokesh](https://github.com/Lokesh19-PP) during the ACES Hackseries.
